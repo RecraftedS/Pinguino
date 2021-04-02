@@ -6,4 +6,3 @@ If you don't know what Pingüino is, its basically a cute penguin runner game wh
 Play the game here: https://recrafted-studios.itch.io/pingino
 or play the Newgrounds one here: https://www.newgrounds.com/portal/view/782791
 
-This github repository will mainly be used for keeping track of changelogs.
