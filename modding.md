@@ -1,5 +1,6 @@
-# HOW TO MOD PINGUINO
+# How To Mod Pinguino
 
+Everything you need know about modding pinguino and more
 ## Graphics
 Go to where you downloaded the game and find and open the "www" folder then open the images folder and open any of the images with your favorite image editor get modding!
 
