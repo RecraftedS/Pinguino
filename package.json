@@ -1,0 +1,28 @@
+{
+	"name": "Pingüino",
+	"main": "index.html",
+	"window": {
+		"title": "Pingüino",
+		"width": 864,
+		"height": 486,
+		"resizable": true,
+		"icon": "www\\icons\\pingoicon.png"
+	},
+	"chromium-args": "--ignore-gpu-blacklist",
+	"settings": {
+		"distribution-mode": "evergreen",
+		"enable-devtools": true
+	},
+	"messages": {
+		"install-webview2": "Pingüino requires Microsoft Edge WebView2 in order to play, It will be downloaded and installed for you now! :D",
+		"downloading": "Downloading... Please Wait :)",
+		"install-webview2-failed": "Failed to install Microsoft Edge WebView2. Check that you have permission to install it, and that your Internet connection is working. Run the game again to try again. Sorry! :("
+	},
+	"c3-app-icons": [
+		{
+			"src": "www\\icons\\pingoicon.png",
+			"width": 50,
+			"height": 50
+		}
+	]
+}
