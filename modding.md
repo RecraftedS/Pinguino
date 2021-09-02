@@ -11,3 +11,5 @@ Go to where you downloaded the game and find and open the "www" folder than open
 ## Examples
 If you wanna add a new costume first find the file named hats.png in the image folder and then find the hat you wanna modify in then get cracking!
 and then once your done go to data.json file and use "ctrl f" and put the name of the hat and edit the name but make sure not delete the n at the beggining of text!
+
+**this information is only for version 1.0.0 and higher**
