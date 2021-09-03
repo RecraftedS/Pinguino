@@ -1,7 +1,25 @@
 # Special Thanks
 
-Construct 3
-WolframTones
-Trello
+**Scrirra - Construct 3**
+
+Google Docs
+
+**WolframTones - Music**
+
+PyxelEdit
+
+Audacity
+
+Aseprite
+
+Atlassian - Trello
+
+GitHub
+
 itch.io
-skymen
+
+skymen - Better Outline Addon
+
+Tom Fulp - Newgrounds
+
+Discord
