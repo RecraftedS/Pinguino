@@ -1,5 +1,7 @@
 # Special Thanks
 
+**Jonas Tyroller - WOWIEEEEE**
+
 **Scrirra - Construct 3**
 
 Google Docs
@@ -23,5 +25,3 @@ itch.io
 skymen - Better Outline Addon
 
 Tom Fulp - Newgrounds
-
-Discord
