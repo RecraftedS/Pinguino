@@ -6,6 +6,8 @@
 
 **Mathhew Marquit - Getting Me Started in Construct 3**
 
+**Ali at DoonDookStudio - Help on Making Game Responsive**
+
 Vimlark - Tutorials
 
 **skymen - Better Outline Addon**
@@ -39,8 +41,4 @@ Aseprite
 Audacity
 
 Game Jolt
-
-
-
-
 
