@@ -2,10 +2,15 @@
 
 **Jonas Tyroller - WOWIEEEEE**
 
+**Xanderwood - Tutorials**
+
+**Mathhew Marquit - Getting Me Started in Construct 3**
+
+Vimlark - Tutorials
+
 **skymen - Better Outline Addon**
 
 Tom Fulp - Newgrounds
-
 
 # Programs Used
 
