@@ -2,26 +2,38 @@
 
 **Jonas Tyroller - WOWIEEEEE**
 
+**skymen - Better Outline Addon**
+
+Tom Fulp - Newgrounds
+
+# Programs Used
+
 **Scrirra - Construct 3**
-
-Google Docs
-
-GXSCC - Midi Conversion
 
 **WolframTones - Music**
 
-PyxelEdit
+**GXSCC - Midi Conversion**
 
-Audacity
+**Atlassian - Trello**
+
+**Savage Interactive - Procreate**
+
+**Google Play Console**
+
+**Saint Andrews Icon Changer v2.0**
+
+**itch.io**
+
+**GitHub**
+
+PyxelEdit
 
 Aseprite
 
-Atlassian - Trello
+Audacity
 
-GitHub
 
-itch.io
 
-skymen - Better Outline Addon
 
-Tom Fulp - Newgrounds
+
+
