@@ -40,5 +40,7 @@ Aseprite
 
 Audacity
 
+Beepbox
+
 Game Jolt
 
