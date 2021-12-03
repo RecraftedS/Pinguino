@@ -9,7 +9,7 @@ If you don't know what Pingüino is, its basically a cute penguin run and jump g
 
 ##  Permissions
 
-You can do whatever you want with game; you can mod it, make videos about it, stream it, meme it, distribute or sell mods, and basically anyhting else that comes to mind. just make to give the boi a little credit (a link would be nice) 
+You can do whatever you want with this game: you can mod it, make videos about it, stream it, meme it, distribute mods, just make to give the boi a little credit (a link would be nice) 
 
 
 ## Where to Play
